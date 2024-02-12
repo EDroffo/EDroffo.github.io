@@ -1,0 +1,31 @@
+body {
+    background-color: lightcyan;
+    align-items: center;
+}
+h1 {
+    border-bottom-style: solid;
+    border-width: 5px;
+    border-color: darkcyan;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+
+    text-align: center;
+    color: darkcyan;
+}
+
+a:link, a:visited {
+    background-color: darkcyan;
+    color: lightcyan;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    width: 100px;
+}
+
+a:hover, a:active {
+    background-color: teal;
+}
